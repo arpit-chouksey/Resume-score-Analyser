@@ -1,0 +1,10 @@
+.loader-container {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.loader-text {
+  font-size: 15px;
+  color: #4f46e5;
+  font-weight: 500;
+}

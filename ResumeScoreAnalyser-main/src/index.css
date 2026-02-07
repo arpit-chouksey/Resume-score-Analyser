@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital@0;1&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+body {
+  background-image: linear-gradient(to bottom,oklch(62.3% 0.214 259.815),oklch(88.2% 0.059 254.128));
+  min-height: 100vh;
+  font-style: Inter;
+}
+
+.app-container {
+  max-width: 600px;
+  margin: 60px auto;
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+.app-title {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #1f2937;
+  font-size: 26px;
+}
+.hero-section{
+  margin-top: 50px;
+  display: flex;
+ justify-content: center;
+ font-size: larger;
+
+}
