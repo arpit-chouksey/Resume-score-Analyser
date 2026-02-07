@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./index.css"; 
 import ResumeUpload from "./components/ResumeUpload/ResumeUpload";
 import Loader from "./components/Loader/Loader";
-import ScoreBar from "./components/Scorebar/ScoreBar";
+import ScoreBar from "./components/ScoreBar/ScoreBar";
 import Suggestions from "./components/Suggestions/Suggestions";
 
 import { calculateScore } from "./utils/scorecalculator";
